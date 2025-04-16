@@ -93,3 +93,10 @@ body {
 #Umidade {
     color: #fff;
 }
+
+
+@media(max-width: 480px){
+    .main-container{
+        min-width: 150px !important;
+    }
+}
